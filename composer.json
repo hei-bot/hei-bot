@@ -1,0 +1,15 @@
+{
+    "name": "heiyeluren-tech/hei-bot",
+    "keywords": [
+        "wechat", "bot"
+    ],
+    "license": "MIT",
+    "require": {
+        "hanson/vbot": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}
